@@ -4,8 +4,13 @@
 
 
 - Skills: **JavaScript, HTML, CSS**
+
 - Atualmente estudando: **JavaScript**
+
+- Pretendo estudar: Sql, ReactJs, NodeJs
+
 - 📫 Contato: **teodoroputtfarcken@hotmail.com**
+
 - Pretendo estudar: Sql, ReactJs, NodeJs
 <p align="left">
 <h3 align="left">Connect with me:</h3>
