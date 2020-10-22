@@ -1,14 +1,12 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=puttfarcken" alt="puttfarcken" /> </p>
 
-<h1 align="left">Hi 👋, I'm Teodoro Puttfarcken</h1>
-<h1 align="left">A Analysis and System Development student</h1>
+<p align="left">Olá, meu nome é Teodoro, sou estudante de tecnologias front-end.<p>
+<p align="left">Estou cursando Análise e Desenvolvimento de Sistemas.</p>
 
 
-- 🔭 I’m currently working on **JavaScript, HTML, CSS**
-- 🌱 I’m currently learning **JavaScript, HTML, CSS**
-- 💬 Ask me about **Soccer, Sports Trading, Books, Cycling**
-- 📫 How to reach me **teodoroputtfarcken@hotmail.com**
-
+- Skills: **JavaScript, HTML, CSS**
+- Atualmente estudando: **JavaScript**
+- 📫 Contato: **teodoroputtfarcken@hotmail.com**
+- Pretendo estudar: Sql, ReactJs, NodeJs
 <p align="left">
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/teodoro wilhelm puttfarcken" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="teodoro wilhelm puttfarcken" height="30" width="40" /></a>
