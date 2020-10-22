@@ -2,7 +2,7 @@
 <p align="left">Olá, meu nome é Teodoro, sou estudante de tecnologias front-end.<p>
 <p align="left">Estou cursando Análise e Desenvolvimento de Sistemas.</p>
 
-
+![](main/imgReadme.png)
 
 - Skills: **JavaScript, HTML, CSS**
 
