@@ -3,7 +3,7 @@
 <p align="left">Estou cursando Análise e Desenvolvimento de Sistemas.</p>
 
 
-<a href="https://github.com/puttfarcken/puttfarcken/blob/main/imgReadme.jpg" align="right" height="40" width="40"></a>
+<a href="https://github.com/puttfarcken/puttfarcken/blob/main/imgReadme.jpg?raw=true" align="right" height="40" width="40"></a>
 
 - Skills: **JavaScript, HTML, CSS**
 
