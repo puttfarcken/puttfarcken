@@ -4,15 +4,15 @@
 
 <img src="https://github.com/puttfarcken/puttfarcken/blob/main/imgReadme.jpg" align="right"  alt="imagem">
 
-- Skills: **JavaScript, HTML, CSS**
+ Skills: **JavaScript, HTML, CSS**
 
-- Atualmente estudando: **JavaScript**
+ Atualmente estudando: **JavaScript**
 
-- Pretendo estudar: Sql, ReactJs, NodeJs
+ Pretendo estudar: Sql, ReactJs, NodeJs
  
-- 📫 Contato: **teodoroputtfarcken@hotmail.com**
+ 📫 Contato: **teodoroputtfarcken@hotmail.com**
 
-- Pretendo estudar: Sql, ReactJs, NodeJs
+ Pretendo estudar: Sql, ReactJs, NodeJs
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
