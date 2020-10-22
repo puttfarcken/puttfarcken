@@ -2,14 +2,14 @@
 <p align="left">Olá, meu nome é Teodoro, sou estudante de tecnologias front-end.<p>
 <p align="left">Estou cursando Análise e Desenvolvimento de Sistemas.</p>
 
-<img src="https://github.com/puttfarcken/puttfarcken/blob/main/imgReadme.jpg" align="right">
+<img src="https://github.com/puttfarcken/puttfarcken/blob/main/imgReadme.jpg" align="right"  alt="imagem">
 
 - Skills: **JavaScript, HTML, CSS**
 
 - Atualmente estudando: **JavaScript**
 
 - Pretendo estudar: Sql, ReactJs, NodeJs
-
+ 
 - 📫 Contato: **teodoroputtfarcken@hotmail.com**
 
 - Pretendo estudar: Sql, ReactJs, NodeJs
