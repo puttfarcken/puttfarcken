@@ -2,8 +2,7 @@
 <p align="left">Olá, meu nome é Teodoro, sou estudante de tecnologias front-end.<p>
 <p align="left">Estou cursando Análise e Desenvolvimento de Sistemas.</p>
 
-
-<a href="https://github.com/puttfarcken/puttfarcken/blob/main/imgReadme.jpg?raw=true" align="right" height="40" width="40"></a>
+![](imgReadme)
 
 - Skills: **JavaScript, HTML, CSS**
 
