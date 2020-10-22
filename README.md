@@ -10,7 +10,7 @@
 
  Pretendo estudar: Sql, ReactJs, NodeJs
  
- Contato: **teodoroputtfarcken@hotmail.com**
+ Contato: teodoroputtfarcken@hotmail.com
 
  Pretendo estudar: Sql, ReactJs, NodeJs
 
